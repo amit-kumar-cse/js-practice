@@ -1,4 +1,4 @@
-const nodeFetch = require('node-fetch');
+import nodeFetch from 'node-fetch';
 
 nodeFetch('https://no-such-server.blabla') // rejects
     .then((response: any) => response.json())
