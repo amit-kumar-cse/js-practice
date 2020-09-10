@@ -7,3 +7,4 @@ nodeFetch('https://no-such-server.blabla') // rejects
         console.log('failed to fetch data from this url');
         console.error(err)
     });
+
