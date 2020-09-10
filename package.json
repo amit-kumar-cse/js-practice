@@ -1,0 +1,25 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "practice for Javascript and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit1702/js-practice.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "javscript",
+    "typescript"
+  ],
+  "author": "amitgarg.cse@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit1702/js-practice/issues"
+  },
+  "homepage": "https://github.com/amit1702/js-practice#readme"
+}
