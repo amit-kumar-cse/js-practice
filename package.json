@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "ts": "ts-node src/typescript/hello.ts",
+    "ts": "ts-node src/promises/promise-all.ts",
     "lint": "tslint -p tsconfig.json"
   },
   "repository": {
