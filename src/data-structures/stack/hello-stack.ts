@@ -1,6 +1,6 @@
 import Stack from './stack';
 
-let stack = new Stack<number>();
+const stack = new Stack<number>();
 
 for(let i = 0; i < 20; i++) {
     stack.push(i);

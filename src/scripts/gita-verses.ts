@@ -1,4 +1,4 @@
-let gitaVerses = [
+const gitaVerses = [
     '10',
     '10.8',
     '10.9',
@@ -45,8 +45,8 @@ let gitaVerses = [
     '18.78'
 ];
 
-for(let verse of gitaVerses) {
-    let split = verse.split('.');
+for(const verse of gitaVerses) {
+    const split = verse.split('.');
     if(split.length === 1) {
         console.log(`
 

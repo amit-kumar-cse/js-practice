@@ -1,7 +1,7 @@
 export default class Stack<T> {
     /** current stack size*/
     private stackSize: number;
-    private stackArray: Array<T>;
+    private stackArray: T[];
     /** place where new data should be pushed*/
     private stackTop: number;
 
