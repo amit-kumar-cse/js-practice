@@ -6,6 +6,7 @@
   "scripts": {
     "test": "npm test",
     "ts": "ts-node src/promises/promise-all.ts",
+    "ll": "ts-node src/data-structures/linked-list/hello-linked-list.ts",
     "lint": "tslint -p tsconfig.json"
   },
   "repository": {
